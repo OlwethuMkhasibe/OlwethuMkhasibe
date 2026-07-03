@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 Final-year BSc IT student specialising in Computer Science & Business Management.
+🎓 Final-year BSc IT student specialising in Computer Science majoring in Business Management.
 
 💻 Passionate about building software using ASP.NET Core, C#, JavaScript and SQL Server.
 
